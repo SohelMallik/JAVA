@@ -14,7 +14,7 @@ public class _9Prime {
             }
         }
 
-        if(n==1){
+        if(n==1 || n==0){
             System.out.println("1 is neither prime nor composite.");
         }
         else if (isPrime==true) {
