@@ -7,8 +7,12 @@ public class _10Factor {
         System.out.print("Enter Number:");
         int n = sc.nextInt();
         sc.close();
+        if(n==1 || n==0){
+            System.out.println("1 and 0 have infinite factors.");
+            return;
+        }
 
-        for (int i = 1; i <= Math.sqrt(n); i++) {
+        for (int i = 2; i <= Math.sqrt(n); i++) {
             if (n % i == 0) {
                 System.out.print(i + " ");
 
