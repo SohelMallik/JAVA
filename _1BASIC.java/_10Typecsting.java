@@ -1,4 +1,4 @@
-public class _10Type_csting {
+public class _10Typecsting{
     public static void main(String[] args) {
         // //Implicit Type Casting
         // int a= 10;
