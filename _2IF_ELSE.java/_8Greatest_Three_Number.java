@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class _10Greatest_Three_Number {
+public class _8Greatest_Three_Number {
     public static void main (String args[]){
         Scanner sc = new Scanner(System.in);
 
