@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class _11Ternary_Operator {
+public class _9Ternary_Operator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a number: ");
