@@ -11,6 +11,6 @@ public class _7Predic_Output {
     }
     
     public static void main (String [] args){
-        System.out.println(cat(2));
+        System.out.println(cat(2,3));
     }
 }
