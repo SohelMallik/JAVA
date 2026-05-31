@@ -1,6 +1,6 @@
 public class _1Array {
     public static void main(String[] args) {
-        int[] arr = new int[5]; // Declaration and initialization of an array of integers with size 5
+        int arr[] = new int[5]; // Declaration and initialization of an array of integers with size 5
 
         // Assigning values to the array
         arr[0] = 10;
